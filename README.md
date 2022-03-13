@@ -1,2 +1,3 @@
 # TestEssentials
-The missing test library for C/C++
+A header only C/C++ library that adds missing functions that can be very useful
+for software testing
